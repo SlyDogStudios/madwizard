@@ -1,3 +1,3 @@
-_prg/*.o
+_prg/*.prg
 *.o
 *.nes
